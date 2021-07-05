@@ -1,0 +1,1 @@
+schedule function cmdpreview:setup/on_reload 20t
