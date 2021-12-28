@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "Command Block Preview",
+    "description": "Allows you to peak inside of command blocks when in creative mode while holding a wooden sword.",
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:scommander",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
