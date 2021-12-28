@@ -13,7 +13,7 @@
 ## How to Use & Information
 
 * This YouTube short covers everything you need to know about the datapack: https://youtu.be/X8quEzmDqkI
-* Uninstall with this command: "/function cmdpreview:uninstall"
+* Uninstall with this command: **"/function cmdpreview:uninstall"**
 
 ## Installation
 
